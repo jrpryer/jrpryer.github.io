@@ -1,3 +1,3 @@
 # jrpryer.github.io
-Personal Webpage
+Personal Webpage 
 *This is deff for me peeps*
