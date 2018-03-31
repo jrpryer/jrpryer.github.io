@@ -2384,7 +2384,9 @@
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
+		
 		}
+
 
 		.image.right {
 			float: right;
@@ -2396,6 +2398,7 @@
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+		
 		}
 
 			.image.fit img {
