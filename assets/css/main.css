@@ -2394,6 +2394,13 @@
 			top: 0.25em;
 		}
 
+		.image.center {
+			display: block;
+			margin-right: auto;
+			margin-left: auto;
+			width: 50%;
+		}
+
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
